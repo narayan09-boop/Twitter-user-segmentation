@@ -461,19 +461,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📝 Citation
-
-If you use this project in your work, please cite:
-
-```bibtex
-@project{twitter_segmentation_2024,
-  title={Twitter User Behavioral Segmentation & Ethical Analysis},
-  author={[Your Name]},
-  year={2024},
-  url={[Your Repository URL]}
-}
-```
-
----
-
-**Last Updated:** March 2024 | **Status:** Complete ✅
